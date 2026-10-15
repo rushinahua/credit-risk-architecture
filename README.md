@@ -71,4 +71,4 @@ La aplicación implementa un enrutamiento nativo basado en estado (*State-Based 
 
 ---
 
-*Desarrollado de forma integral como pieza de portafolio de alta ingeniería técnica y analítica de datos financieras.*
+*Desarrollado por Robert Ushiñahua de forma integral como pieza de portafolio de alta ingeniería técnica y analítica de datos financieras.*
