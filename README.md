@@ -70,5 +70,6 @@ La aplicación implementa un enrutamiento nativo basado en estado (*State-Based 
 * **Módulo Predictivo:** Simulador interactivo individual de *Credit Scoring* mediante barras de desplazamiento continuo y visualizador de estabilidad temporal (Gini / PSI) del modelo de Machine Learning.
 
 ---
+## ✍️ Autor
 
 *Desarrollado por Robert Ushiñahua de forma integral como pieza de portafolio de alta ingeniería técnica y analítica de datos financieras.*
