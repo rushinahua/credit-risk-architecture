@@ -1,3 +1,6 @@
+🔒 Nota de confidencialidad: El código fuente del MVP se mantiene en un repositorio privado por contener lógica financiera sensible, reglas de negocio bajo normativas SBS y secretos comerciales de gobernabilidad de modelos. Esta sección expone en detalle la arquitectura de software, el diseño analítico y las decisiones de ingeniería implementadas.
+
+
 # 📊 Sistema de Evaluación de Riesgo Crediticio y Morosidad (Banca / Fintech)
 
 Un Producto de Datos (*Data Product*) avanzado diseñado para la gestión analítica de carteras financieras de consumo en el mercado peruano. Este sistema implementa una **Arquitectura Limpia (Clean Architecture)** basada en el Diseño Guiado por el Dominio (DDD) en **React + TypeScript**, alimentada por un pipeline de ingeniería de características (*feature engineering*) desarrollado en **Python (Pandas & NumPy)** bajo los lineamientos normativos de la **SBS**.
