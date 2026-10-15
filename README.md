@@ -1,4 +1,4 @@
-🔒 Nota de confidencialidad: El código fuente del MVP se mantiene en un repositorio privado por contener lógica financiera sensible, reglas de negocio bajo normativas SBS y secretos comerciales de gobernabilidad de modelos. Esta sección expone en detalle la arquitectura de software, el diseño analítico y las decisiones de ingeniería implementadas.
+🔒 Nota de confidencialidad: El código fuente del MVP se mantiene en un repositorio privado por contener lógica, reglas de negocio y de gobernabilidad de modelos. Esta sección expone en detalle la arquitectura de software, el diseño analítico y las decisiones de ingeniería implementadas.
 
 
 # 📊 Sistema de Evaluación de Riesgo Crediticio y Morosidad (Banca / Fintech)
